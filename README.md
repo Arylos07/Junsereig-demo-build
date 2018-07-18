@@ -5,6 +5,7 @@ This demo is an build of the concept "Junsereig". This is a very early demo with
 # Instructions (not available in the game)
 
 The game requires a login due to an older concept. However, this function will store your saves for testing purposes on future projects. Register for an account in-game.
+A demo account may be used, username: test password: test123
 
 # Controls.
 
